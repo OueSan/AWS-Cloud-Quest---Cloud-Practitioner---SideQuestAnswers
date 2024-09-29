@@ -1,0 +1,8 @@
+What is the best description of an AWS Region? 
+
+1) The physical location of a single AWS data center. 
+
+2) Multiple, isolated, and physically separate Availability Zones within a geographic area. (correct)
+
+3) A combination of exactly two AWS Availability Zones. 
+
