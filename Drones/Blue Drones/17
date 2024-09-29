@@ -1,0 +1,8 @@
+How can an Amazon s3 bucket owner grant public access to a bucket when configuring it for website hosting? 
+
+1) S3 Buckets are publicly accessible by default
+
+2) Enabling website hosting on an s3 bucket enables public access by default  
+
+3) The s3 bucket owner can create a bucket policy (correct)
+
