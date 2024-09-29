@@ -1,0 +1,7 @@
+A security group was configured with a rule to allow HTTPS traffic to an instance. What will happen if an HTTP connection is attempetd? 
+
+1) The security group will allow the incoming connection but will deny the outgoing connection
+
+2) Unless there is a rule explicitly allowing HTTP, the security group will deny the connection (correct) 
+
+3) The security group will allow the connection because HTTPS implies HTTP as well 
