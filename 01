@@ -1,0 +1,10 @@
+Which Amazon s3 feature automatically changes data storage tiers based on user especifications? 
+
+1) Amazon SNS notifications 
+
+2) Lifecycle configuration (correct)
+
+3) Amazon S3 Glacier
+
+4) Events Notifications
+
