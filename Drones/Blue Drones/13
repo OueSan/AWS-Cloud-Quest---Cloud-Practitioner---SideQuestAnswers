@@ -1,0 +1,9 @@
+Which statements regardind Amazon S3 buckets are true? (Select TWO.)
+
+1) Amazon S3 creates buckets in an AWS Region that the user specifies. (correct)
+
+2) S3 buckets exist only in a single Availability Zone. 
+
+3) A bucket is a container for objects stored in Amazon S3. (correct)
+
+4) S3 buckets have public access by default 
